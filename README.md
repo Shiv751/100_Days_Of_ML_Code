@@ -1,7 +1,7 @@
 # 100_Days_Of_ML_Code
 
 
-**Day 1**: January 7, 2019
+### Day 1: January 7, 2019
 
 **Today's Progress**: Got familier with Google Colab then get my hands dirty with fundamentals of Pandas Library 
 
